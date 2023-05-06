@@ -1,0 +1,11 @@
+42|forty-two
+22|twenty-two
+71|seventy-one
+33|thirty-three
+20|twenty
+64|sixty-four
+81|eighty-one
+6|six
+25|twenty-five
+21|twenty-one
+27|twenty-seven

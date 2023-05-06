@@ -1,0 +1,11 @@
+40|forty
+20|twenty
+30|thirty
+25|twenty-five
+35|thirty-five
+22|twenty-two
+45|forty-five
+37|thirty-seven
+10|ten
+18|eighteen
+24|twenty-four
