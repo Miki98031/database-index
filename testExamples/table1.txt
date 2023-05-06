@@ -1,0 +1,10 @@
+78|seventy-eight
+13|thirteen
+48|forty-eight
+38|thirty-eight
+58|fifty-eight
+23|twenty-three
+68|sixty-eight
+1|one
+8|eight
+5|five
