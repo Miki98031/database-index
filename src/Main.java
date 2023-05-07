@@ -101,6 +101,11 @@ public class Main {
                         Main.searchForKSuccessiveKeys(index, sc);
                         break;
                     }
+                    
+                    default: {
+                        System.out.println("Wrong case number.");
+                        break;
+                    }
                 }
             }
         }
