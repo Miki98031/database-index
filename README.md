@@ -1,6 +1,7 @@
 # database-index
-Database index implemented through B+ tree.
+Database index implemented through B+ tree. \n
 Simple user interface:
+
   0 - Exit
   1 - Create new index or delete one
   2 - Print index
